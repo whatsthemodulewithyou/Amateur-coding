@@ -22,3 +22,7 @@ def get_address(employee_address):
 employee_address = ["561 Wallaby.St", "321 Decending.Ln","123 Acending.Ln"]
 print(get_address(employee_address))
 
+##The datatypes used in this are integers also known as int and strings also known as str.
+## All functions are named based on what they do, using an action-oriented naming convention with a verb prefix like "get".
+
+
