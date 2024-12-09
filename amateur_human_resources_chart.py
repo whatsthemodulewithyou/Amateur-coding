@@ -36,10 +36,3 @@ print((display_empl_number(employee_id)))
 print(display_dob(employee_dob))
 print(display_age(employee_age))
 print(display_adress(employee_address))
-
-
-print(display_id(employee_name))
-print((display_empl_number(employee_id)))
-print(display_dob(employee_dob))
-print(display_age(employee_age))
-print(display_adress(employee_address))
