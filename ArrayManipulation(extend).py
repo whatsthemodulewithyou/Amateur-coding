@@ -14,4 +14,3 @@ print(int_arr, float_arr)
 #extend is a more extreme version of append.
 #as good practice add the Type of array. So Prefix the attomic thing which in these tow case its int and float
 ##prefix it with the type. If you imagining a dog red_dog , big_dog, small_dog , endless types
-##type goes first hence TYPE_SHIT 
