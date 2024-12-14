@@ -16,8 +16,8 @@ print(f"The Fibonacci number at position {n} is: {result}")
 #THIS SCRIPT IS THE NAIVE APPROACH
 
 #This is the least effective way to solve the problem because it will UNECESSARILY repeat a particular sequence.
-#The analogy I will use is an "Anaphora" is a rhetorical and poetic tool. Lets assume MLK is dealing with machines instead of Humans.
-#MLK "I have a dream speech" reiterates "I have a dream" and throught the speech he repeats it over and over.
+#The analogy I will use is an "Anaphora" which is a rhetorical and poetic tool. Lets assume MLK is dealing with machines instead of Humans.
+#MLK "I have a dream" speech reiterates "I have a dream" and throught the speech he repeats it over and over.
 #If we ran the speech as an algorithm the "I have a dream" part of the speech would be the inefficiency.(overly simplified for example sake)
 #This is because of OVERLAPPING SUBCASES through the re-itterating phase.Lack of MEMOIZATION or CACHING.
 
