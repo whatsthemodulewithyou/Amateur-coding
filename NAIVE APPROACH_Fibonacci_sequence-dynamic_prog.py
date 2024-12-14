@@ -24,7 +24,7 @@ print(f"The Fibonacci number at position {n} is: {result}")
 
 #Problem here? - It is very slow in getting results above a particular n input.
 
-# (TIME COMPLEXITY) : O(2n) due to the recomputation of already identified subproblems.
+# (TIME COMPLEXITY) : O(2n) due to the recomputation of already identified subcases.
  
 # (SPACECOMPLEXITY): O(n) due to the call stack used for recursion. At any time, the maximum depth of the recursion stack is proportional to n
 
