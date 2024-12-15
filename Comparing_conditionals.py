@@ -17,6 +17,6 @@ else:
 
 
 #Comparing variables. These are 3 conditional branches. Why? Because (a > b = b < a), (a == b = b==a), (a < b = b > a). they are reciprocals!
-#Same type of branch , different perspective. this is like saying 9x3 is different as 3x9 in a logical sense.
+#Same type of branch , different perspective. 9x3 is not different from 3x9 in a logical sense.
 
 
