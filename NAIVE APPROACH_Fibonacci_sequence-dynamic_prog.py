@@ -8,7 +8,7 @@ def fib(n) :
     else:
         return fib(n - 1) + fib(n - 2)
     
-n = 17
+n = 0
 result = fib(n)
 print(f"The Fibonacci number at position {n} is: {result}")
 
