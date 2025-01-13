@@ -13,3 +13,6 @@ def prefixSum(nums):
     
 
 print((prefixSum(nums)))
+
+
+##output: ['one', 'onetwo', 'onetwothree', 'onetwothreefour']
